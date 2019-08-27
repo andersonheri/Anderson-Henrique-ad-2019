@@ -19,7 +19,7 @@
 setwd("C:/Users/Anderson/Desktop/Artigo - DA")
 
 # Abrir banco de dados 
-load("Anderson-Henrique-ad-2019.RData")
+load("Anderson-Henrique-ad-ufpe-2019.RData")
 
 #==================== Estatistica Descritiva ===================
 
