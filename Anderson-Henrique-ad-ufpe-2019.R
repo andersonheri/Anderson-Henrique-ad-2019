@@ -1,12 +1,3 @@
-# UNIVERSIDADE FEDERAL DE PERNAMBUCO
-# PROGRAMA DE POS-GRADUACAO EM CIENCIA POLITICA
-# Professor: David Moreira
-# Aluno: Anderson Henrique da Silva
-
-#==============================================
-#      ANALISE DE DADOS - UFPE 2019
-#==============================================
-
 #===========================================================
 # Script da análise, gráficos e testes do artigo - 
 # "PERCEPÇÃO MACROECONÔMICA E FELICIDADE PARTIDARIA: 
